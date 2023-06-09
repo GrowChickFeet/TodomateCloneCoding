@@ -10,6 +10,8 @@ https://www.todomate.net/#/
 - Java 17
 - Gradle 7.6.1
 - MySql
+- SpringSecurity
+- Spring Data JPA
 
 # 2023.05.30 ~ 2023.05.31
 - 요구사항 수집
@@ -21,3 +23,6 @@ https://www.todomate.net/#/
 # 2023.06.01 ~ 2023.06.04
 - Spring Security 자습
 - Spring Data Jpa 자습
+
+# 2023.06.12
+- SpringSecurity를 적용한 회원가입 & 로그인 기능 구현
