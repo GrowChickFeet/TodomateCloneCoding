@@ -24,5 +24,5 @@ https://www.todomate.net/#/
 - Spring Security 자습
 - Spring Data Jpa 자습
 
-# 2023.06.12
+# ~ 2023.06.13
 - SpringSecurity를 적용한 회원가입 & 로그인 기능 구현
