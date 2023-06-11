@@ -25,4 +25,6 @@ https://www.todomate.net/#/
 - Spring Data Jpa 자습
 
 # ~ 2023.06.13
+- ERD에 맞게 Entity 설계
 - SpringSecurity를 적용한 회원가입 & 로그인 기능 구현
+- 회원가입&로그인 테스트 코드 작성
