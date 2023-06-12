@@ -3,6 +3,7 @@ Todo mate 사이트를 클론코딩해보는 레포지토리 입니다.
 https://www.todomate.net/#/
 
 [현실's repo](https://github.com/hsilnam/todomate)
+[현욱's repo](https://github.com/Hyeon-Uk/MyTodoList)
 
 
 # Spec
@@ -24,7 +25,7 @@ https://www.todomate.net/#/
 - Spring Security 자습
 - Spring Data Jpa 자습
 
-# ~ 2023.06.13
+# ~ 2023.06.14
 - ERD에 맞게 Entity 설계
 - SpringSecurity를 적용한 회원가입 & 로그인 기능 구현
 - 회원가입&로그인 테스트 코드 작성
