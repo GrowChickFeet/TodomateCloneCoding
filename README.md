@@ -28,4 +28,6 @@ https://www.todomate.net/#/
 # ~ 2023.06.14
 - ERD에 맞게 Entity 설계
 - SpringSecurity를 적용한 회원가입 & 로그인 기능 구현
+
+# ~ 2023.06.15
 - 회원가입&로그인 테스트 코드 작성
